@@ -2,11 +2,11 @@
 
 Provides selected posters that satisfies your taste.
 
-## Posters
+### Posters
 Our posters gallery has categories that will suits your interest.
 
-## Frames
+### Frames
 Frames can be choosen from selected items or you can design your own frames.
 
-## Clocks
+### Clocks
 The clocks are our new products for this year.
